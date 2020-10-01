@@ -12,7 +12,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require kun391/users
+composer require gg-php/users
 ```
 
 ## Usage
@@ -41,8 +41,7 @@ If you discover any security related issues, please email nguyentruongthanh.dn@g
 
 ## Credits
 
-- [Kun](https://github.com/kun391)
-- [All Contributors](../../contributors)
+- [GGPHP](https://github.com/greenglobal)
 
 ## License
 

@@ -46,7 +46,6 @@ class UserServiceProvider extends AuthServiceProvider
      */
     public function register()
     {
-        dd('oke');
         $this->app->bind(UserRepository::class, UserRepositoryEloquent::class);
     }
 }
